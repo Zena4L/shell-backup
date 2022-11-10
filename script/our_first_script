@@ -1,0 +1,14 @@
+#!/bin/bash
+
+# Author: Clement Owireku-Bogyah
+# Date Created: 09/11/2022
+# Date Modified: 09/11/2022
+
+# Description:
+# A simple hello world
+
+# Usage:
+# our_first_script
+
+echo "Hello world!"
+exit 0
