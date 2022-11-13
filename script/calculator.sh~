@@ -1,1 +1,8 @@
 #!/bin/bash
+
+# Author : Zena
+# Description: A simple calcutor
+
+echo $(($@|bc
+))
+exit 0
